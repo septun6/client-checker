@@ -1,0 +1,11 @@
+2022-01-07 15:28:04,727 INFO:Connecting to 149.154.167.51:443/TcpFull...
+2022-01-07 15:28:04,786 INFO:Connection to 149.154.167.51:443/TcpFull complete!
+2022-01-07 15:28:04,982 INFO:start Coin scalper checker Bot
+2022-01-07 15:28:05,185 INFO:check Coin scalper Bot (wait)
+2022-01-07 15:28:20,369 WARNING:check Coin scalper Bot (server status offline)
+2022-01-07 15:28:35,595 INFO:check Coin scalper Bot (wait)
+2022-01-07 15:28:50,821 INFO:check Coin scalper Bot (wait)
+2022-01-07 15:29:00,486 INFO:check Coin scalper Bot (online again)
+2022-01-07 15:29:00,486 INFO:check Coin scalper Bot (OK)
+2022-01-07 15:29:05,923 INFO:check Coin scalper Bot (wait)
+2022-01-07 15:29:12,482 INFO:check Coin scalper Bot (OK)
